@@ -4,3 +4,5 @@ github.com/beltran/gosasl v0.0.0-20210629234946-b41ac5bb612a h1:bOmOqN7GrefYKBHR
 github.com/beltran/gosasl v0.0.0-20210629234946-b41ac5bb612a/go.mod h1:Qx8cW6jkI8riyzmklj80kAIkv+iezFUTBiGU0qHhHes=
 github.com/beltran/gssapi v0.0.0-20200324152954-d86554db4bab h1:ayfcn60tXOSYy5zUN1AMSTQo4nJCf7hrdzAVchpPst4=
 github.com/beltran/gssapi v0.0.0-20200324152954-d86554db4bab/go.mod h1:GLe4UoSyvJ3cVG+DVtKen5eAiaD8mAJFuV5PT3Eeg9Q=
+github.com/hlts2/round-robin v0.0.0-20200401070650-85eb7643d48c h1:jh5UpHTKjNVOI8GWMZ2V9CIedprhqMEx0cdnAKg8N7w=
+github.com/hlts2/round-robin v0.0.0-20200401070650-85eb7643d48c/go.mod h1:KcxyNW4jxhFpHNsUFZzs5xOZ7rr/v1O19u+Qv5yDzw4=
